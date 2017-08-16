@@ -1,35 +1,3 @@
-# useful-links
-This repository provides links to useful websites
----
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
-# Say Hello to markdown
-
-Markdown is an **easy to use** format for writing reports. It resembles what you naturally write every time you compose an email. In fact, you may have already used markdown *without realizing it*. These websites all rely on markdown formatting
-
-* [Github](www.github.com)
-* [StackOverflow](www.stackoverflow.com)
-* [Reddit](www.reddit.com)
-
-
-```{python}
-import pandas as dj
-rng = dj.date_range(start='1/1/2009',end='12/31/2012', freq='W-MON')
-print(rng)
-
-```
-
-```{r}
-dim(iris)
-```
-text
-```{r}
-hist(iris[[2]])
-```
-
 ---
 title: "Untitled"
 author: "Garrett"
@@ -37,6 +5,5 @@ date: "July 10, 2014"
 output: html_document
 ---
 
-Some inline R code, 4.
-
+This repository provides links to useful websites
 
