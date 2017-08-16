@@ -1,8 +1,3 @@
----
-title: "Useful-links"
-author: "Alfred"
-date: "August 16, 2017"
----
-
+#Useful-links
 This repository provides links to useful websites
 
