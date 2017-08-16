@@ -1,8 +1,7 @@
 ---
-title: "Untitled"
-author: "Garrett"
-date: "July 10, 2014"
-output: html_document
+title: "Useful-links"
+author: "Alfred"
+date: "August 16, 2017"
 ---
 
 This repository provides links to useful websites
