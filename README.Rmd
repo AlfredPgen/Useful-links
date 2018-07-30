@@ -1,4 +1,4 @@
 # Useful-links
 
-This repository provides links to useful and interesting websites
+This repository provides links to interesting websites that focus on data analysis and statistical genetic methods
 
